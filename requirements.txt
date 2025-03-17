@@ -1,5 +1,4 @@
 numpy
-<<<<<<< HEAD
 scipy
 matplotlib
 seaborn
@@ -7,10 +6,3 @@ pandas
 sklearn 
 scikit-learn
 math
-=======
-matplotlib
-seaborn
-pandas
-sklearn
-scikit-learn
->>>>>>> d824fa702a375e806f19388f57d1b1bab3ca2089
