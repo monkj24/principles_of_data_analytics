@@ -19,10 +19,10 @@ Using the Iris dataset allowed us to implement the full data analysis workflowâ€
 
 The simplicity and structure of the Iris dataset made it an ideal starting point for understanding fundamental principles in data analytics.
 
-
+![Species Iris](images/iris.png)
 
 Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808
-/" rel="nofollow">Spaces Irises</a>.</p> 
+/" rel="nofollow"> Irises</a>.</p> 
 # 3. References
 
 - https://seaborn.pydata.org/generated/seaborn.pairplot.html
