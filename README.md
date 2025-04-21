@@ -25,6 +25,10 @@ Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" r
 # 3. References
 
 
+
+- https://www.geeksforgeeks.org/box-plot/
+- https://seaborn.pydata.org/generated/seaborn.boxplot.html
+- https://matplotlib.org/stable/api/pyplot_summary.html
 - https://seaborn.pydata.org/generated/seaborn.heatmap.html
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html
 - https://stats.stackexchange.com/questions/392517/how-can-one-interpret-a-heat-map-plot
