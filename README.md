@@ -21,7 +21,7 @@ The simplicity and structure of the Iris dataset made it an ideal starting point
 
 ![ Iris](images/iris2.png)
 
-<a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" rel="nofollow">Irises</a>.</p> 
+Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" rel="nofollow">Irises</a>.</p> 
 # 3. References
 
 - https://seaborn.pydata.org/generated/seaborn.pairplot.html
