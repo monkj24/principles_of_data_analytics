@@ -4,15 +4,15 @@ by Joanna Mnich
 
 # 1. Introduction
 
-The Principles of Data Analytics  provides an overview of how data can be converted into valuable knowledge. 
-It covers fundamental concepts such data collection, cleansing, visualization, and interpretation.
+The Principles of Data Analytics provides an overview of how data can be converted into valuable knowledge. 
+It covers fundamental concepts such as data collection, cleansing, visualization, and interpretation.
 The project investigates statistical approaches, methods for collecting data, and fundamental machine learning algorithms required for extracting useful information from data. 
 
 
 # 2. Iris Data
 
 The Iris dataset was used as a foundational example to apply core data analytics techniques, such as data visualization
-statistical analysis, and classification.
+statistical analysis and classification.
 We applied supervised learning methods, such as logistic regression and decision trees, to classify iris species based on sepal and petal dimensions.
 Pairplots and boxplots were used to visually examine relationships between flower measurements and species, helping to identify patterns and correlations.
 Using the Iris dataset allowed us to implement the full data analysis workflow—from data exploration and visualization to model building and evaluation.
