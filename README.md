@@ -24,5 +24,12 @@ The simplicity and structure of the Iris dataset made it an ideal starting point
 Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" rel="nofollow">Irises</a>.</p> 
 # 3. References
 
+
+- https://seaborn.pydata.org/generated/seaborn.heatmap.html
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html
+- https://stats.stackexchange.com/questions/392517/how-can-one-interpret-a-heat-map-plot
+- https://www.geeksforgeeks.org/how-to-create-a-seaborn-correlation-heatmap-in-python/
+- https://www.math.net/correlation-coefficient
 - https://seaborn.pydata.org/generated/seaborn.pairplot.html
 - https://python-charts.com/correlation/pairs-plot-seaborn/
+- 
