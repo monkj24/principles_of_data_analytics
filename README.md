@@ -24,6 +24,12 @@ The simplicity and structure of the Iris dataset made it an ideal starting point
 Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" rel="nofollow">Irises</a>.</p> 
 # 3. References
 
+- https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
+- https://gist.githubusercontent.com/curran/a08a1080b88344b0c8a7/raw/0e7a9b0a5d22642a06d3d5b9bcbad9890c8ee534/iris.csv'
+- https://www.geeksforgeeks.org/python-pandas-df-size-df-shape-and-df-ndim/
+- https://pandas.pydata.org/pandas-docs/stable/reference/groupby.html
+- https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mean.html
 
 
 - https://www.geeksforgeeks.org/box-plot/
