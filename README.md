@@ -23,7 +23,34 @@ The simplicity and structure of the Iris dataset made it an ideal starting point
 
 Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" rel="nofollow">Irises</a>.</p> 
 
-# 3. References
+# 3. Table of Contents
+
+Task 1  Source the Data Set
+Task 2  The Data structure
+     A. The shape
+     B. The first and last 5 rows of the data
+     C. The feature names
+        D. The target classes
+Task 3  Summarize the Data
+     A. Mean
+     B. Minimum
+     C. Maximum
+     D. Standard Deviation
+     E. Median
+Task 4  Features
+     A. Sepal length
+     B. Sepal width
+     C. Petal length
+     D. Petal width
+Task 5  Relationships investigations
+Task 6  Analyze of Relationship
+Task 7  Class Distributions Analyze
+Task 8  Compute Correlations
+Task 9  Simple Linear Regression
+Task 10 Too Many Features
+
+
+# 4. References
 
 - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
@@ -34,12 +61,23 @@ Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" r
 - https://www.geeksforgeeks.org/pandas-dataframe-hist/
 - https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#visualization-hist
 - https://matplotlib.org/stable/gallery/statistics/hist.html
-
+- https://towardsdatascience.com/evaluating-linear-relationships-1d239f51297b/
+- https://decodingdatascience.com/correlation-understanding-the-relationship-between-variables/
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.map.html#pandas.DataFrame.map
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html
+- https://matplotlib.org/stable/api/pyplot_summary.html
+- https://matplotlib.org/stable/api/pyplot_summary.html
+- https://www.nature.com/articles/s41586-020-2649-2
+- https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html
 - https://www.geeksforgeeks.org/box-plot/
 - https://seaborn.pydata.org/generated/seaborn.boxplot.html
 - https://matplotlib.org/stable/api/pyplot_summary.html
+- https://www.math.net/correlation-coefficient
+- https://www.geeksforgeeks.org/how-to-create-a-seaborn-correlation-heatmap-in-python/
 - https://seaborn.pydata.org/generated/seaborn.heatmap.html
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html
+
 - https://stats.stackexchange.com/questions/392517/how-can-one-interpret-a-heat-map-plot
 - https://www.geeksforgeeks.org/how-to-create-a-seaborn-correlation-heatmap-in-python/
 - https://www.math.net/correlation-coefficient
