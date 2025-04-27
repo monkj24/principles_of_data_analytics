@@ -26,27 +26,36 @@ Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" r
 # 3. Table of Contents
 
 Task 1  Source the Data Set
+
 Task 2  The Data structure
      A. The shape
      B. The first and last 5 rows of the data
      C. The feature names
-        D. The target classes
+     D. The target classes
+     
 Task 3  Summarize the Data
      A. Mean
      B. Minimum
      C. Maximum
      D. Standard Deviation
      E. Median
+     
 Task 4  Features
      A. Sepal length
      B. Sepal width
      C. Petal length
      D. Petal width
+     
 Task 5  Relationships investigations
+
 Task 6  Analyze of Relationship
+
 Task 7  Class Distributions Analyze
+
 Task 8  Compute Correlations
+
 Task 9  Simple Linear Regression
+
 Task 10 Too Many Features
 
 
