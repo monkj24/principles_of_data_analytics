@@ -28,10 +28,10 @@ Photo by <a href="https://www.thespruce.com/irises-for-flower-garden-1315808/" r
 Task 1  Source the Data Set
 
 Task 2  The Data structure
-     A. The shape
-     B. The first and last 5 rows of the data
-     C. The feature names
-     D. The target classes
+     - A. The shape
+     - B. The first and last 5 rows of the data
+     - C. The feature names
+     - D. The target classes
      
 Task 3  Summarize the Data
      A. Mean
