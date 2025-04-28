@@ -4,7 +4,7 @@ by Joanna Mnich
 
 # 1. Introduction
 
-The Principles of Data Analytics overview of how data can be converted into valuable knowledge. 
+The Principles of Data Analytics provides an overview how data can be converted into valuable knowledge. 
 It covers fundamental concepts such as data collection, cleansing, visualization, and interpretation.
 The project investigates statistical approaches, data collection methods, and fundamental machine learning algorithms for extracting useful information from data. 
 
