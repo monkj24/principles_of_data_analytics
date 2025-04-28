@@ -11,9 +11,8 @@ The project investigates statistical approaches, data collection methods, and fu
 
 # 2. Iris Data
 
-The Iris dataset was used as a foundational example to apply core data analytics techniques, such as data visualization
-statistical analysis and classification.
-We applied supervised learning methods, such as logistic regression and decision trees, to classify iris species based on sepal and petal dimensions.
+The Iris dataset was used as a foundational example to apply core data analytics techniques, such as data visualization, statistical analysis, and classification.
+Iris species were classified using supervised learning methods such as logistic regression and decision trees based on sepal and petal dimensions.
 Pairplots and boxplots were used to visually examine relationships between flower measurements and species, helping to identify patterns and correlations.
 Using the Iris dataset allowed us to implement the full data analysis workflow—from data exploration and visualization to model building and evaluation.
 
