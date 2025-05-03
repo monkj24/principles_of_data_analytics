@@ -98,10 +98,16 @@ Task 10 Too Many Features
 - https://www.geeksforgeeks.org/how-to-create-a-seaborn-correlation-heatmap-in-python/
 - https://seaborn.pydata.org/generated/seaborn.heatmap.html
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html
-
 - https://stats.stackexchange.com/questions/392517/how-can-one-interpret-a-heat-map-plot
-- https://www.geeksforgeeks.org/how-to-create-a-seaborn-correlation-heatmap-in-python/
-- https://www.math.net/correlation-coefficient
+- https://en.wikipedia.org/wiki/Coefficient_of_determination
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+- https://realpython.com/linear-regression-in-python/
+- https://numpy.org/doc/stable/reference/generated/numpy.poly1d.html
+- https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.text.html
+- https://matplotlib.org/stable/users/explain/text/text_props.html
+- https://chatgpt.com/c/680e6874-ef04-800b-92f9-3b3c428aa359
 - https://seaborn.pydata.org/generated/seaborn.pairplot.html
 - https://python-charts.com/correlation/pairs-plot-seaborn/
-- 
+
